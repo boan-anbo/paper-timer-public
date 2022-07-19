@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 body {
-    background-color: rgb(241, 225, 6)
+  background-color: rgb(241, 225, 6);
+}
+
+.page-header {
+  background-image: linear-gradient(118deg, #7acfd4, #ffafaf);
 }
