@@ -6,7 +6,7 @@ It's more than a timer to track time; it's a simple but powerful tool to help yo
 
 Read about the [design philosophy](#key-ideas) to learn more about why Paper Timer is different.
 
-See [use cases](#typical-usages) on how to best use the Paper Timer.
+See [use cases](#typical-usages) for examples of using Paper Timer for different scenarios.
 
 ![Timer view]()
 
