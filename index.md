@@ -24,9 +24,17 @@ See [use cases](#typical-usages) for examples of using Paper Timer for different
 
 The design philosophy of Paper Timer holds true of three principles of reading and writing:
 
-1. ## Iteration
+## Iteration
 
-2 ##
+
+
+## Selectivity
+
+Due to time limitation, our reading and writing are never thorough and complete. With Papaer Timer, however, you can turn the negative incompleteness to a positve selectivity.
+
+## Spacing
+
+
 
 # Example usages
 
