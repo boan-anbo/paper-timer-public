@@ -18,7 +18,14 @@ See [use cases](#usages) for examples of using Paper Timer for different scenari
 
 ## Mac
 
+- [0.1.0, 2022-07-20](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha/Paper.Timer_0.1.0_universal.dmg)
+  - Universal, for both Intel and Silicon MacOs.
+
+## Linux
+
 - Upcoming
+
+---
 
 # Ideas
 
@@ -44,6 +51,8 @@ Stage
 : A step in an [`item`](#terms). Ideally, should focus on only one task.
 : E.g. during the "previewing" `stage`, look only for the central argument; and then during the "reading for evidence" `stage`, try to identify the key evidence the author provided for the previous argument.
 
+---
+
 # Usages
 
 ## Reading/writing time allocation
@@ -57,11 +66,11 @@ Stage
 
 ## Explore effective methods of reading and writing
 
-### When you want to become a better reader by trying different strategies, implemented as stages and items.
+### When you want to become a better reader by trying different strategies, implemented as stages and items
 
 - You can try different configuration of stages and time allocation.
 
-# Personal history
+<!-- # Personal history
 
 I started writing my first timer of this nature a few months into my doctoral study. The coursework was intense. It's a humanities program which tends to assign more readings than most of other disciplines. On the heavier side, one course could assign two to three books every week; even the lighter courses would expect four to six readings at least for each session. And we take 3-5 courses each semester. So it averaged about  800 to 1,200 pages per week.
 
@@ -69,4 +78,4 @@ I know it's known fact in graduate school that there is the survival strategy wh
 
 From this, I learned that (1) I absolutely need a timer to make sure I won't spend more time than I should reading one material, however much I enjoyed it, at the expanses of the others, and (2) I have to read smartly, which I didn't really know how to until after my comprehensive exam.
 
-The first timer I built look like this:
+The first timer I built look like this: -->
