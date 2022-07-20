@@ -6,10 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Download
 
-- Windows: [Latest version, 0.1.0, 2022-07-19](https://github.com/boan-anbo/paper-timer-public/releases/download/0.1.0/Paper-timer_0.1.0_x64_en-US.msi)
+## Windows
 
-- Mac: Upcoming
-- 
+- [Latest version, 0.1.0, 2022-07-19](https://github.com/boan-anbo/paper-timer-public/releases/download/0.1.0/Paper-timer_0.1.0_x64_en-US.msi)
+
+## Mac
+
+- Upcoming
+  
 # How to use the timer
 
 ![Timer view](assets/timer-interface.png)
