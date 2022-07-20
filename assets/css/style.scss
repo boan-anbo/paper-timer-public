@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  background-image: linear-gradient(118deg, #7acfd4, #ffafaf);
+  background-image: linear-gradient(118deg, #00c5cf, #fd3030);
 }
 
 
@@ -14,6 +14,10 @@ h4,
 h5,
 h6 {
   color: "white";
+}
+
+a {
+  color: '#0a0a0a';
 }
 
 h1 {
