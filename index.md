@@ -15,7 +15,6 @@ Syntax highlighted code block
 
 # How to use the timer
 
-
 ![Timer view](assets/timer-interface.png)
 
 [Link](url) and ![Image](src)
