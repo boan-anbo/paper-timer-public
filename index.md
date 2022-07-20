@@ -2,11 +2,11 @@
 
 Paper timer makes your reading and writing more efficient and stress-free.
 
-It's more than a timer to track time; it's a simple but powerful tool to help you form good reading and writing habits by letting you experiment or reinforcement methods of reading and writing of your own.
+It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading and writing that suit you and turn them into habits.
 
 Read about the [design philosophy](#key-ideas) to learn more about why Paper Timer is different.
 
-See [use cases](#typical-usages) for examples of using Paper Timer for different scenarios.
+See [use cases](#usages) for examples of using Paper Timer for different scenarios.
 
 ![Timer view](\assets/timer-interface-transparent.png)
 
@@ -22,21 +22,22 @@ See [use cases](#typical-usages) for examples of using Paper Timer for different
 
 # Key ideas
 
-The design philosophy of Paper Timer holds true of three principles of reading and writing:
+The design philosophy of Paper Timer holds true three principles about reading and writing. I don't enforce
 
 ## Iteration
 
-
-
 ## Selectivity
 
-Due to time limitation, our reading and writing are never thorough and complete. With Papaer Timer, however, you can turn the negative incompleteness to a positve selectivity.
+Reading are never thorough and complete. With Paper Timer, however, you can turn the negative incompleteness to a positive selectivity: read actively within time limits. Do one thing, e.g. reading for argument, writing answers, reading for answers, writing your own summary, at a time and do it well.
 
 ## Spacing
 
+# Definition
 
+Stage
+: a step in reading or writing process. Should focus on only one thing. E.g. during the `previewing` stage, look only for the central argument; and then during the `reading for evidence` stage, try to identify the key evidence the author provided for the previous argument.
 
-# Example usages
+# Usages
 
 ## Reading/writing time allocation
 
@@ -50,3 +51,5 @@ Due to time limitation, our reading and writing are never thorough and complete.
 ### With the timer you can
 
 ##
+
+# Future
