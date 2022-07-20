@@ -1,8 +1,9 @@
 # Why Paper Timer
 
-You can use the [editor on GitHub](https://github.com/boan-anbo/paper-timer-public/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Timer view](assets/timer-interface-transparent.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Allocate time easily.
+   - Typical use cases are literature review, class reading assignments, daily journal reading, and Ph.D comprehensive exam preparation, where you have to read _x_ number of books in _y_ amount of time.
 
 # Download
 
@@ -16,4 +17,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   
 # How to use the timer
 
-![Timer view](assets/timer-interface-transparent.png)
