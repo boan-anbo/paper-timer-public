@@ -1,5 +1,7 @@
 # Why Paper Timer
 
+Paper timer let you read and write more efficiently by helping you 
+
 ![Timer view](assets/timer-interface-transparent.png)
 
 # Download
