@@ -8,7 +8,7 @@ Read about the [design philosophy](#key-ideas) to learn more about why Paper Tim
 
 See [use cases](#typical-usages) for examples of using Paper Timer for different scenarios.
 
-![Timer view]()
+![Timer view](\assets/timer-interface-transparent.png)
 
 # Download
 
