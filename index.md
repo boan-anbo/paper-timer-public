@@ -1,11 +1,11 @@
 # Why Paper Timer
 
-Paper timer makes your reading and writing more efficient and stress-free. 
+Paper timer makes your reading and writing more efficient and stress-free.
 
 It's more than a timer to track time; it's a simple but powerful tool to help you form good reading and writing habits by letting you experiment or reinforcement methods of reading and writing of your own.
 
+Read about the [design philosophy](#key-ideas) to learn more about why Paper Timer is different.
 
-Read [the design philosophy of paper timer](#key-ideas)
 See [use cases](#typical-usages) on how to best use the Paper Timer.
 
 ![Timer view]()
@@ -26,13 +26,14 @@ The design philosophy of Paper Timer holds true of three principles of reading a
 
 1. ## Iteration
 
-2. ## 
+2 ##
 
-# Typical usages
+# Example usages
 
-1. ## Allocate reading/writing time easily
+## Reading/writing time allocation
 
-- ### When you have to read _x_ number of books in _y_ amount of time. Typical use cases include:
+### When you have to read _x_ number of books in _y_ amount of time. Typical use cases include
+
 - literature review
 - class reading assignments
 - daily journal reading
@@ -40,6 +41,4 @@ The design philosophy of Paper Timer holds true of three principles of reading a
 
 ### With the timer you can
 
-
-
-## 
+##
