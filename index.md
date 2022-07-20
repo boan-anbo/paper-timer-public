@@ -13,7 +13,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-# How to use
+# How to use the timer
+
+# 
 
 [Link](url) and ![Image](src)
 ```![Test](assets/icon.png)
