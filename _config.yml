@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 description: A Timer for Readers
 show_downloads: true
+icon: assets/icon.png
