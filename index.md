@@ -2,9 +2,6 @@
 
 ![Timer view](assets/timer-interface-transparent.png)
 
-1. Allocate time easily.
-   - Typical use cases are literature review, class reading assignments, daily journal reading, and Ph.D comprehensive exam preparation, where you have to read _x_ number of books in _y_ amount of time.
-
 # Download
 
 ## Windows
@@ -15,5 +12,18 @@
 
 - Upcoming
   
-# How to use the timer
+# Usages
 
+## Allocate time easily
+
+### Where you have to read _x_ number of books in _y_ amount of time. Typical use cases include:
+- literature review
+- class reading assignments
+- daily journal reading
+- Ph.D comprehensive exam preparation,
+
+### With the timer you can
+
+
+
+## 
