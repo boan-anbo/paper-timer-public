@@ -16,4 +16,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   
 # How to use the timer
 
-![Timer view](assets/timer-interface.png)
+![Timer view](assets/timer-interface-transparent.png)
