@@ -21,6 +21,10 @@
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        {% if site.github.is_project_page %}
+        <p class="view"><small>Request features and report bugs on Github <a href="https://github.com/boan-anbo/paper-timer-public/issues">issues</a></small></p>
+        {% endif %}
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 
@@ -44,7 +48,6 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p class="view"><small>Request features and report bugs on Github <a href="https://github.com/boan-anbo/paper-timer-public/issues">issues</a></small></p>
         <p><small>Created and maintained with ❤️ by <a href="{{ site.github.owner_url }}">Bo An</a></small></p>
         {% endif %}
       </footer>
