@@ -4,11 +4,12 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: white;
+  background-image: linear-gradient(118deg, #7acfd4, #ffafaf);
 }
 
 .page-header {
-  background-image: linear-gradient(118deg, #7acfd4, #ffafaf);
+  background-color: rgb(241, 225, 6)
+  
 //   set color to elegent dark gray
   color: #333;
 }
@@ -18,9 +19,9 @@ a {
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: rgb(241, 225, 6);
+    color: rgb(44, 41, 0);
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: rgb(44, 41, 0);
+    color: 'white';
 }
