@@ -20,7 +20,7 @@ See [use cases](#usages) for examples of using Paper Timer for different scenari
 
 - Upcoming
 
-# Key ideas
+# Ideas
 
 The design philosophy of Paper Timer holds true three principles about reading and writing. I don't enforce
 
@@ -32,10 +32,18 @@ Reading are never thorough and complete. With Paper Timer, however, you can turn
 
 ## Spacing
 
-# Definition
+# Terms
+
+Item
+: An item to read and write using a certain method. 
+: E.g., a reading item could be a journal article, or a section of a paper you want to write. 
+: However, an item in Paper Timer also means _a method or a situation_. Sometimes you want to skim an article, sometimes you want to read thoroughly, and sometimes you are pressed with time but still want to take most our of the article with all the time you have. The **"situation"** is crucial for item.
+: To give an concrete example, for an average journal article, say 25-45 pages, there can be three `items` for this kind of journal articles: (1) an item called "Journal article scanning" (which takes 2 `stages` and 5 minutes to read in total), (2) "Journal article close reading" (which takes 6 `stages` and 40 minutes), and (3) "Journal article fast reading (which also takes 6 `stages` but only 25 minutes).
 
 Stage
-: a step in reading or writing process. Should focus on only one thing. E.g. during the `previewing` stage, look only for the central argument; and then during the `reading for evidence` stage, try to identify the key evidence the author provided for the previous argument.
+: A step in an [`item`](#terms). Should focus on only one thing. 
+: E.g. during the "previewing" stage, look only for the central argument; and then during the "reading for evidence" stage, try to identify the key evidence the author provided for the previous argument.
+
 
 # Usages
 
@@ -53,3 +61,9 @@ Stage
 ##
 
 # Future
+
+
+##
+
+##
+##
