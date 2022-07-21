@@ -16,13 +16,11 @@ See [use cases](#usages) for examples of using Paper Timer for different scenari
 
 - Latest version
   - [0.1.0, 2022-07-19](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-win/Paper-timer_0.1.0_x64_en-US.msi)
-    - `[https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-win/Paper-timer_0.1.0_x64_en-US.msi](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-win/Paper-timer_0.1.0_x64_en-US.msi)`
 
 ## Mac
 
 - Latest version:
   - [0.1.0, 2022-07-20](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-mac/Paper.Timer_0.1.0_universal.dmg)
-    - `[https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-mac/Paper.Timer_0.1.0_universal.dmg](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-mac/Paper.Timer_0.1.0_universal.dmg)`
     - Universal version, notarized.
     - For Mac with Intel or Apple Silicon chip.
 
