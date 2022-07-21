@@ -15,7 +15,8 @@ See [use cases](#usages) for examples of using Paper Timer for different scenari
 ## Windows
 
 - Latest version
-  - [0.1.0, 2022-07-19](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-win/Paper-timer_0.1.0_x64_en-US.msi) ([](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-win/Paper-timer_0.1.0_x64_en-US.msi))
+  - [0.1.0, 2022-07-19](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-win/Paper-timer_0.1.0_x64_en-US.msi) 
+  ([https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-win/Paper-timer_0.1.0_x64_en-US.msi](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.0-alpha-win/Paper-timer_0.1.0_x64_en-US.msi))
 
 ## Mac
 
