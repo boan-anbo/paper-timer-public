@@ -8,11 +8,11 @@ a {
   font-weight: bold;
   //  yellow underline
   text-decoration: underline;
-  text-decoration-color: yellow;
+  text-decoration-color: rgb(241, 225, 6);
 }
 
 a:hover {
-  color: yellow;
+  color: rgb(241, 225, 6);
   text-decoration: underline;
 }
 .logo {
@@ -35,7 +35,7 @@ h6 {
 
 h1 {
   -webkit-text-stroke: 1px black;
-  -webkit-text-fill-color: yellow;
+  -webkit-text-fill-color:rgb(241, 225, 6);
   text-decoration: none;
 }
 
