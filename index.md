@@ -10,6 +10,8 @@ See [use cases](#usages) for examples of using Paper Timer for different scenari
 
 ![Timer view](/assets/timer-interface.png)
 
+[TOC]
+
 # Download
 
 ## Windows
@@ -30,24 +32,51 @@ See [use cases](#usages) for examples of using Paper Timer for different scenari
 
 ---
 
+# Usages
+
+## 1. Typical usages include When you have to read _x_ number of books in _y_ amount of time
+
+- literature review
+- class reading assignments
+- daily journal reading
+- Ph.D comprehensive exam preparation.
+
+## 2. When you want to become a better reader by trying different strategies, implemented as configurations of stages and items
+
+- Check out the demo item below (coming with Paper Timer), experiment with your own, and make changes to your `stages` as you use the timer.
+
+---
+
+# Example
+
+![Example configuration](assets/demo-item.png)
+
+---
+
 # Ideas
 
-The design philosophy of Paper Timer holds true three principles about reading and writing. I don't enforce
+The design philosophy of Paper Timer holds true three principles about reading and writing.
 
-## Iteration
+## _Iterate_: read it multiple times
 
-## Selectivity
+- Reading the same material multiple times, __each time focusing on different tasks__, is _better_ than reading in one go and from cover to cover.
 
-Reading are never thorough and complete. With Paper Timer, however, you can turn the negative incompleteness to a positive selectivity: read actively within time limits. Do one thing, e.g. reading for argument, writing answers, reading for answers, writing your own summary, at a time and do it well.
+## _Be selective_: focus on key parts
 
-## Spacing
+- Reading is an never ending process. You can turn the necessary incompleteness to a positive selectivity by __reading the key parts actively within time limits__.
+
+## _Space_: leave time to reflect and write
+
+- __Reading with questions makes__ active reading easier. Starting to write down thoughts, especially questions, during the reading process not after helps tremendously
+
+---
 
 # Terms
 
 Item
 : An item to read and write using a certain method.
 : E.g., a reading item could be a journal article, or a section of a paper you want to write.
-: However, an item in Paper Timer also means _a method or a situation_. Sometimes you want to skim an article, sometimes you want to read thoroughly, and sometimes you are pressed with time but still want to take most our of the article with all the time you have. The **"situation"** is crucial for item.
+: However, an item in Paper Timer also means _a method or a situation_. Sometimes you want to skim an article, sometimes you want to read thoroughly, and sometimes you are pressed with time but still want to take most our of the article with all the time you have. The __"situation"__ is crucial for item.
 : To give an concrete example, for an average journal article, say 25-45 pages, there can be three `items` for this kind of journal articles: (1) an item called "Journal article scanning" (which takes 2 `stages` and 5 minutes to read in total), (2) "Journal article close reading" (which takes 6 `stages` and 40 minutes), and (3) "Journal article fast reading (which also takes 6 `stages` but only 25 minutes).
 
 Stage
@@ -56,22 +85,33 @@ Stage
 
 ---
 
-# Usages
+# Configurations
 
-## Reading/writing time allocation
+- You can adjust the setting and export and import user data in `settings`.
+![Configuration interface](assets/demo-configuration.png)
 
-### When you have to read _x_ number of books in _y_ amount of time. Typical use cases include
+---
 
-- literature review
-- class reading assignments
-- daily journal reading
-- Ph.D comprehensive exam preparation.
+# Bugs and features
 
-## Explore effective methods of reading and writing
+If you encounter bugs or want to suggest features, please use the [issues](https://github.com/boan-anbo/paper-timer-public/issues).
 
-### When you want to become a better reader by trying different strategies, implemented as stages and items
+---
 
-- You can try different configuration of stages and time allocation.
+# Changelog
+
+## [0.1.1] - 2022-07-21
+
+### Added
+
+- Demo item to help new users to get familiar with using `stages`.
+- Universal app for Mac users.
+- Adjusted stage information display for make it easier to tell the current item and stages.
+- Option to clear user data and reset.
+
+## [0.1.0] - 2022-07-19
+
+- First release
 
 <!-- # Personal history
 
