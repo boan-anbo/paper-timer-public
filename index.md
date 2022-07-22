@@ -17,7 +17,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 ---
 
-# Download
+# ⇩ Download 
 
 | Version | Architecture | OS  | Installer| Size| Last update| Notes|
 |---|---|---|---|---|---|---|
