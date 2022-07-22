@@ -167,7 +167,7 @@ The difference seems small but the implication is huge. My best advice is try us
 
 ## Q: Is Paper Timer free?
 
-- Yes. I'm tempted to charge a fee for Mac users because Apple charges me $99 a year just to allow me to notarize it; but I decided against it. I might consider donation options later.
+- Yes. I was tempted to charge a fee for Mac users because Apple charges me $99 a year just to allow me to notarize it; but I decided against it. I might consider donation options later.
 
 ## Q: Is Paper Timer great for all reading scenarios?
 
