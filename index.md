@@ -166,22 +166,17 @@ Stage
 It's been many years since I started to use similar practices in my reading. The inspirations are many and many of their ideas are reflected in the Paper Timer. This is no ads--no referral links or anything, just recommendations and acknowledge..
 
 1. [How to Read](https://pne.people.si.umich.edu/PDF/howtoread.pdf) a Book by [Paul Edwards](https://cisac.fsi.stanford.edu/people/paul-n-edwards)
-
-- A super useful and succinct guide for academic reading.
-
-- Download the [pdf guide](https://pne.people.si.umich.edu/PDF/howtoread.pdf) here.
+  - A super useful and succinct guide for academic reading.
+  - Download the [pdf guide](https://pne.people.si.umich.edu/PDF/howtoread.pdf) here.
   
 2. Andrew Abbott's [_Digital Paper_](https://press.uchicago.edu/ucp/books/book/chicago/D/bo18508006.html)
-
-- An original and comprehensive guide not just on reading but on doing library-based research in general.
+  - An original and comprehensive guide not just on reading but on doing library-based research in general.
 
 3. [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095) by  Mortimer J. Adler and Charles Van Doren
-
-- A classic on reading methods. Read this as an undergrad and it changed my life. A bit dated and geared more towards general readers but still extremely useful and inspiring.
+  - A classic on reading methods. Read this as an undergrad and it changed my life. A bit dated and geared more towards general readers but still extremely useful and inspiring.
 
 4. [The Power of Reading: Insights from the Research](https://www.amazon.com/Power-Reading-Insights-Research-2nd/dp/1591581699) by Stephen Krashen
-
-- A classic on language acquisition through free voluntary reading--Not exactly the same as the kind of targeted and controlled reading promoted by Paper Timer though.
+  - A classic on language acquisition through free voluntary reading--Not exactly the same as the kind of targeted and controlled reading promoted by Paper Timer though.
 
 ---
 
