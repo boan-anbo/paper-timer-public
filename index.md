@@ -229,6 +229,12 @@ Paper Timer is __free__. If you hope to support the development, you can
 
 - First release
 
+...
+
+## [0.0.1] - 2016-01-11
+
+- I built the first prototype of this timer the second semester in graduate school. Some of the sound you hear in the current version, such as the background and ticking sounds are from back then. I can write about the evolution of this timer in relation to my study at a later point.
+
 <!-- # Personal history
 
 I started writing my first timer of this nature a few months into my doctoral study. The coursework was intense. It's a humanities program which tends to assign more readings than most of other disciplines. On the heavier side, one course could assign two to three books every week; even the lighter courses would expect four to six readings at least for each session. And we take 3-5 courses each semester. So it averaged about  800 to 1,200 pages per week.
