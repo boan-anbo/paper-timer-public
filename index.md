@@ -4,11 +4,12 @@ Paper timer makes your reading and writing more efficient and stress-free.
 
 It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading and writing that suit you and turn them into habits.
 
-See:
-
-- [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
-- [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
-- [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
+- See:
+  - [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
+  - [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
+  - [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
+  - [__support__](#support) if you like and want to support Paper Timer
+  - [__change log__](#changelog) for changes.
 
 ![Timer view](/assets/timer-interface.png)
 
@@ -95,7 +96,7 @@ Item
 
 : E.g., a reading item could be a journal article, or a section of a paper you want to write.
 
-: However, an item in Paper Timer also means _a method or a situation_. 
+: However, an item in Paper Timer also means _a method or a situation_.
 
 : Sometimes you want to skim an article, sometimes you want to read thoroughly, and sometimes you are pressed with time but still want to take most our of the article with all the time you have. The __"situation"__ is crucial for item.
 
@@ -122,9 +123,11 @@ If you encounter bugs or want to suggest features, please use the [issues](https
 
 # Support
 
-Paper Timer is __free__. If you hope to support the development, you can 
-1. __report bugs and make suggestions__ using the [issues](https://github.com/boan-anbo/paper-timer-public/issues). 
-2. __spread the word__ and recommend Paper Timer to others.
+Paper Timer is __free__. If you hope to support the development, you can
+
+1. report bugs and make suggestions using the [issues](https://github.com/boan-anbo/paper-timer-public/issues).
+2. spread the word and recommend Paper Timer to others.
+
 ---
 
 # Changelog
