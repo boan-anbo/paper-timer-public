@@ -39,16 +39,26 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 # Usages
 
-## 1. Typical usages include When you have to read _x_ number of books in _y_ amount of time
+1. __literature review__
+    - where you need to go through many readings quickly and multiple times: the first time you filter out relevant ones by scanning them, and the second time you read the important items more thoroughly etc..
 
-- literature review
-- class reading assignments
-- daily journal reading
-- Ph.D comprehensive exam preparation.
+2. class __reading assignments__
 
-## 2. When you want to become a better reader by trying different strategies, implemented as configurations of stages and items
+    - When you have to read _x_ number of books in _y_ amount of time.
 
-- Check out the demo item below (coming with Paper Timer), experiment with your own, and make changes to your `stages` as you use the timer.
+3. Ph.D comprehensive __exam__ preparation.
+
+    - A combination of the above two and more intense.
+
+4. Routine news or journal __reading sessions__ to keep up with the art of the field.
+
+    - You have 2 hours to spend in the morning. How many things can you read?
+
+5. Train yourself to __be a better reader__
+
+    - Trying different reading strategies that work for you, implemented as configurations of stages and items, and __form good reading habits__.
+
+Check out the demo item below (coming with Paper Timer), experiment with your own, and make changes to your `stages` as you use the timer.
 
 ---
 
@@ -97,7 +107,7 @@ The design philosophy of Paper Timer holds true three principles about reading:
 
 ## _Iterate_: read it multiple times
 
-- Reading the same material multiple times, __each time focusing on different tasks__, is _better_ than reading in one go and from cover to cover.
+- Reading the same material multiple times, __each time focusing on different tasks__, is _better_ than reading in one go and from cover to cover, which is always the worst way to read academic literature even if you have the time, unless you're reading pure narratives.
 
 ## _Be selective_: focus on key parts
 
@@ -105,7 +115,7 @@ The design philosophy of Paper Timer holds true three principles about reading:
 
 ## _Space_: leave time to reflect and write
 
-- __Reading with questions__ makes active reading easier. Starting to write down thoughts, especially questions, during the reading process not after helps tremendously
+- __Reading with questions__ makes active reading easier. Starting to write down thoughts, especially questions, during the reading process, not after, will increase dramatically increase your comprehension.
 
 ---
 
@@ -153,7 +163,7 @@ The difference seems small but the implication is huge. My best advice is try us
 
 ## Q: Is Paper Timer great for all reading scenarios?
 
-- Absolutely not. 
+- Absolutely not.
   In my years of using timers of this kind which I built, I often found scenarios where I need to pause the timer, so I can spend more time on something until I'm ready to move on, rather than following the predefined stages. And sometimes, especially after you have internalized the staged reading techniques, you might be even more productive reading without Paper Timer. Paper Timer shouldn't be a prison house; it's a scaffold.
 
 ## Q: What's background sound?
