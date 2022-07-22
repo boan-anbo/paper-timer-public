@@ -17,7 +17,7 @@ See [use cases](#usages) for examples of using Paper Timer for different scenari
 ## Windows
 
 - Latest version
-  - Download [0.1.1, 2022-07-21](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.1/Paper.Timer_0.1.1_x64_en-US.msi)
+  - [0.1.1, 2022-07-21](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.1/Paper.Timer_0.1.1_x64_en-US.msi)
 
 ## Mac
 
@@ -55,8 +55,8 @@ See [use cases](#usages) for examples of using Paper Timer for different scenari
   - The reading is divided into four phases:
     1. `preview`
     2. `reading key passages`
-    3. `and reading contexts`
-    4. and `re-reading unclear parts`.
+    3. `and reading contexts` and
+    4. `re-reading unclear parts`.
 
   - The reading phases are separated from each other with writing stages, where you write your questions, thoughts. These are also moments for reflections.
 
