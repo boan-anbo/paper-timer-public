@@ -129,6 +129,13 @@ Paper Timer is __free__. If you hope to support the development, you can
 2. spread the word and recommend Paper Timer to others!
 
 ---
+# Roadmaps
+
+- [ ] Multi-lingual support
+- [ ] Multiple profiles
+- [ ] Linux version
+- [ ] Quick note
+---
 
 # Changelog
 
