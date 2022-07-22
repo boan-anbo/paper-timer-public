@@ -39,6 +39,8 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 # Usages
 
+Some typical scenario where using Paper Timer makes a difference:
+
 1. __literature review__
     - where you need to go through many readings quickly and multiple times: the first time you filter out relevant ones by scanning them, and the second time you read the important items more thoroughly etc..
 
