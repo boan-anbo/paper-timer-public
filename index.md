@@ -126,7 +126,7 @@ If you encounter bugs or want to suggest features, please use the [issues](https
 Paper Timer is __free__. If you hope to support the development, you can
 
 1. report bugs and make suggestions using the [issues](https://github.com/boan-anbo/paper-timer-public/issues).
-2. spread the word and recommend Paper Timer to others.
+2. spread the word and recommend Paper Timer to others!
 
 ---
 
