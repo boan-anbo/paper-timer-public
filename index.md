@@ -19,17 +19,19 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 # Download
 
-## Windows x64
+## Windows x64 [2022-07-21]
 
-| ver. | installer | date |
+| ver. | installer |
 |---|---|---|
-|0.1.1| [Paper.Timer_0.1.1_x64_en-US.msi](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.1/Paper.Timer_0.1.1_x64_en-US.msi)|020721|
+|0.1.1| [Paper.Timer_0.1.1_x64_en-US.msi](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.1/Paper.Timer_0.1.1_x64_en-US.msi)|
 
 ## macOS
 
-| ver. | installer | date |
-|---|---|---|
-|0.1.1| [Paper.Timer_0.1.1_universal.dmg](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.1/Paper.Timer_0.1.1_universal.dmg)|020721|
+- Last update: [2022-07-21]
+
+| ver. | installer |
+|---|---|
+|0.1.1| [Paper.Timer_0.1.1_universal.dmg](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.1/Paper.Timer_0.1.1_universal.dmg)|
 
 - Universal version, notarized.
 
