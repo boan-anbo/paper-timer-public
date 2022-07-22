@@ -1,13 +1,15 @@
-# Why Paper Timer
+# Why [Paper Timer](https://www.papertimer.com)
 
-Paper timer makes your reading and writing more efficient and stress-free.
+Paper timer makes your reading more efficient and stress-free.
 
-It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading and writing that suit you and turn them into habits.
+It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading that suit you and turn them into habits.
 
 - See:
   - [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
   - [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
   - [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
+  - [__FAQ__](#faq) for common and not so common questions.
+  - [__possible issues__](#possible-issues) to learn about known issues.
   - [__support__](#support) if you like and want to support Paper Timer
   - [__change log__](#changelog) for changes.
 
@@ -37,16 +39,52 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 # Usages
 
-## 1. Typical usages include When you have to read _x_ number of books in _y_ amount of time
+Some typical scenario where using Paper Timer makes a difference:
 
-- literature review
-- class reading assignments
-- daily journal reading
-- Ph.D comprehensive exam preparation.
+1. __literature review__
+    - where you need to go through many readings quickly and multiple times: the first time you filter out relevant ones by scanning them, and the second time you read the important items more thoroughly etc..
 
-## 2. When you want to become a better reader by trying different strategies, implemented as configurations of stages and items
+2. class __reading assignments__
 
-- Check out the demo item below (coming with Paper Timer), experiment with your own, and make changes to your `stages` as you use the timer.
+    - When you have to read _x_ number of books in _y_ amount of time.
+
+3. Ph.D comprehensive __exam__ preparation.
+
+    - A combination of the above two and more intense.
+
+4. Routine news or journal __reading sessions__ to keep up with the art of the field.
+
+    - You have 2 hours to spend in the morning. How many things can you read?
+
+5. Train yourself to __be a better reader__
+
+    - Trying different reading strategies that work for you, implemented as configurations of stages and items, and __form good reading habits__.
+
+Check out the demo item below (coming with Paper Timer), experiment with your own, and make changes to your `stages` as you use the timer.
+
+---
+
+# Features
+
+- Easy reading `item` and `stage` organizations. See [terms](#terms) section for their definition.
+
+![Timer organization](assets/timer-organization.png)
+
+- Extremely helpful voice notifications of reading progresses. If you don't like them, you can mute it in [settings](#configurations).
+  - But I strongly recommend keeping them on, so you don't have to check Paper Timer and can keep it minimized and focus on the reading.
+- Pleasant sound effects for background and stage and item endings. Differential clock sound let you easily know where you are and how much time left. Also mutable.
+
+![Sound settings](assets/sound-settings.png)
+
+- Easily stick to the top or bottom of the screen while you're reading.
+
+![Stick buttons](assets/stick-buttons.png)
+
+- Unobtrusive: becomes half transparent automatically when you're reading on the screen.
+
+![Unobstrusive](assets/timer-unobstrusive.png)
+
+- And more in [roadmap](#roadmaps).
 
 ---
 
@@ -73,11 +111,11 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 # Design philosophy
 
-The design philosophy of Paper Timer holds true three principles about reading and writing.
+The design philosophy of Paper Timer holds true three principles about reading:
 
 ## _Iterate_: read it multiple times
 
-- Reading the same material multiple times, __each time focusing on different tasks__, is _better_ than reading in one go and from cover to cover.
+- Reading the same material multiple times, __each time focusing on different tasks__, is _better_ than reading in one go and from cover to cover, which is always the worst way to read academic literature even if you have the time, unless you're reading pure narratives.
 
 ## _Be selective_: focus on key parts
 
@@ -85,14 +123,14 @@ The design philosophy of Paper Timer holds true three principles about reading a
 
 ## _Space_: leave time to reflect and write
 
-- __Reading with questions__ makes active reading easier. Starting to write down thoughts, especially questions, during the reading process not after helps tremendously
+- __Reading with questions__ makes active reading easier. Starting to write down thoughts, especially questions, during the reading process, not after, will increase dramatically increase your comprehension.
 
 ---
 
 # Terms
 
 Item
-: __An item to read and write using a certain method.__
+: __An item to read using a certain method.__
 
 : E.g., a reading item could be a journal article, or a section of a paper you want to write.
 
@@ -115,6 +153,43 @@ Stage
 
 ---
 
+# FAQ
+
+## Q: Is Paper Timer a productivity tool? How is it different from popular productivity timers such as Pomodoro timers or time trackers
+
+- Yes and no! One lesson I learned from my academic studies is that, when it comes to Research software, a lot of things are missing in common productivity tools. A generic tool is OK for everyone but great for no one.
+Compared to Pomodoro timers and focus trackers, for example, Paper Timer allows you not only to decide __how much__ time you will spend, but also __how__ you will spend them, stage by stage.
+The difference seems small but the implication is huge. My best advice is try using Paper Timer and Pomodoro for reading and feel the difference by yourself. You'll love it.
+
+## Q: What do you mean by "Paper Timer makes you stress-free"?
+
+- When you have to finish 12 articles in 6 hours, if you're not carefully, you can easily overspend time on some of the readings and leave others little time to go over. You _will_ be stressed, not knowing how much time you should spend on each and not knowing when you will finish. Using Paper Timer will not make these problems magically disappear, but trust me it will make reading so much more enjoyable and it incredibly easy to focus even when you have hard deadlines ahead.
+
+## Q: Is Paper Timer free?
+
+- Yes. I was tempted to charge a small amount of fee for Mac users because Apple charges me $99 a year just to allow me to notarize it; but I decided against it. I might consider donation options later.
+
+## Q: Is Paper Timer great for all reading scenarios?
+
+- Absolutely not.
+  In my years of using timers of this kind which I built, I often found scenarios where I need to pause the timer, so I can spend more time on something until I'm ready to move on, rather than following the predefined stages. And sometimes, especially after you have internalized the staged reading techniques, you might be even more productive reading without Paper Timer. Paper Timer shouldn't be a prison house; it's a scaffold.
+
+## Q: What's background sound?
+
+- It's a free sound recording of a summer night in a Japanese temple.
+
+## Q: What's the ding sound?
+
+- The "ding" sound you hear at the end of an item--after all stages have ended--is the sound of a Tibetan singing bowl. Soothing huh?
+
+---
+
+# Possible issues
+
+- If you toggle the profile view (the first button to the left) while the timer is running, there is a chance the timer is stuck. Restart the timer solves the issue.
+
+---
+
 # Bugs and features
 
 If you encounter bugs or want to suggest features, please use the [issues](https://github.com/boan-anbo/paper-timer-public/issues).
@@ -126,7 +201,16 @@ If you encounter bugs or want to suggest features, please use the [issues](https
 Paper Timer is __free__. If you hope to support the development, you can
 
 1. report bugs and make suggestions using the [issues](https://github.com/boan-anbo/paper-timer-public/issues).
-2. spread the word and recommend Paper Timer to others.
+2. spread the word and recommend Paper Timer to others!
+
+---
+
+# Roadmaps
+
+- [ ] Multi-lingual support
+- [ ] Multiple profiles
+- [ ] Linux version
+- [ ] Quick note
 
 ---
 
@@ -144,3 +228,19 @@ Paper Timer is __free__. If you hope to support the development, you can
 ## [0.1.0] - 2022-07-19
 
 - First release
+
+...
+
+## [0.0.1] - 2016-01-11
+
+- I built the first prototype of this timer the second semester in graduate school. Some of the sound you hear in the current version, such as the background and ticking sounds are from back then. I can write about the evolution of this timer in relation to my study at a later point.
+
+<!-- # Personal history
+
+I started writing my first timer of this nature a few months into my doctoral study. The coursework was intense. It's a humanities program which tends to assign more readings than most of other disciplines. On the heavier side, one course could assign two to three books every week; even the lighter courses would expect four to six readings at least for each session. And we take 3-5 courses each semester. So it averaged about  800 to 1,200 pages per week.
+
+I know it's known fact in graduate school that there is the survival strategy which says you _don't_ read everything assigned but only those that can give you something to write and talk about for the next class. But I didn't believe in that, except for a few obligatory courses that I had to take as part of the degree requirements but was not interested in. For all the courses I picked myself, I, like any nerd in the graduate school, wanted to read _everything_ assigned and more (the person, the history, debate contexts, reviews etc). Of course, it was unrealistic to do all these with the limited time I had.
+
+From this, I learned that (1) I absolutely need a timer to make sure I won't spend more time than I should reading one material, however much I enjoyed it, at the expanses of the others, and (2) I have to read smartly, which I didn't really know how to until after my comprehensive exam.
+
+The first timer I built look like this: -->
