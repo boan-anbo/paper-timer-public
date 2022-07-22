@@ -8,6 +8,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
   - [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
   - [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
   - [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
+  - [__possible issues__](#possible-issues) to learn about known issues.
   - [__support__](#support) if you like and want to support Paper Timer
   - [__change log__](#changelog) for changes.
 
@@ -112,6 +113,12 @@ Stage
 
 - You can adjust the setting and export and import user data in `settings`.
 ![Configuration interface](assets/demo-configuration.png)
+
+---
+
+# Possible issues
+
+- If you toggle the profile view (the first button to the left) while the timer is running, there is a chance the timer is stuck. Restart the timer solves the issue.
 
 ---
 
