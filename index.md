@@ -8,8 +8,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
   - [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
   - [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
   - [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
-  - []
-  - [__FAQ__](#faq) for common questions.
+  - [__FAQ__](#faq) for common and not so common questions.
   - [__possible issues__](#possible-issues) to learn about known issues.
   - [__support__](#support) if you like and want to support Paper Timer
   - [__change log__](#changelog) for changes.
@@ -59,7 +58,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 ![Timer organization](assets/timer-organization.png)
 
-- Extremely helpful voice notifications of reading progresses. If you don't like them, you can mute it in [settings](#configurations). 
+- Extremely helpful voice notifications of reading progresses. If you don't like them, you can mute it in [settings](#configurations).
   - But I strongly recommend keeping them on, so you don't have to check Paper Timer and can keep it minimized and focus on the reading.
 - Pleasant sound effects for background and stage and item endings. Differential clock sound let you easily know where you are and how much time left. Also mutable.
 ![Sound settings](assets/sound-settings.png)
@@ -68,6 +67,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 - Unobtrusive: becomes half transparent automatically when you're reading on the screen.
 ![Unobstrusive](assets/timer-unobstrusive.png)
 - And more in [roadmap](#roadmaps).
+
 ---
 
 # Example
@@ -137,15 +137,32 @@ Stage
 
 # FAQ
 
-## Q: Is Paper Timer a productivity tool? How is it different from popular productivity timers such as Pomodoro timers or time trackers.
+## Q: Is Paper Timer a productivity tool? How is it different from popular productivity timers such as Pomodoro timers or time trackers
 
-- Yes and no! One lesson I learned from my academic studies is that, when it comes to Research software, a lot of things are missing in common productivity tools. A generic tool is OK for everyone but great for no one. 
-  Compared to Pomodoro timers and focus trackers, for example, Paper Timer allows you not only to decide __how much__ time you will spend, but __how__ you will spend them, stage by stage. 
+- Yes and no! One lesson I learned from my academic studies is that, when it comes to Research software, a lot of things are missing in common productivity tools. A generic tool is OK for everyone but great for no one.
+  Compared to Pomodoro timers and focus trackers, for example, Paper Timer allows you not only to decide __how much__ time you will spend, but __how__ you will spend them, stage by stage.
 The difference seems small but the implication is huge. My best advice is try using Paper Timer and Pomodoro for reading and feel the difference by yourself. You'll love it.
 
 ## Q: What do you mean by "Paper Timer makes you stress-free"?
 
-- When you have to finish 12 articles in 6 hours, if you're not carefully, you can easily overspend time on some of the readings and leave others little time to go over. You _will_ be stressed, not knowing how much time you should spend on each, and not knowing when you will finish reading. Using Paper Timer will not make these problems magically disappear, but trust me it will make reading so much more enjoyable and it incredibly easy to focus even when you have hard deadlines aheadh.
+- When you have to finish 12 articles in 6 hours, if you're not carefully, you can easily overspend time on some of the readings and leave others little time to go over. You _will_ be stressed, not knowing how much time you should spend on each and not knowing when you will finish. Using Paper Timer will not make these problems magically disappear, but trust me it will make reading so much more enjoyable and it incredibly easy to focus even when you have hard deadlines ahead.
+
+## Q: Is Paper Timer free?
+
+- Yes. I'm tempted to charge a fee for Mac users because Apple charges me $99 a year just to allow me to notarize it. I might consider donation options later.
+
+## Q: Is Paper Timer great for all reading scenarios?
+
+- Absolutely not. 
+  In my years of using timers of this kind which I built, I often found scenarios where I need to pause the timer, so I can spend more time on something until I'm ready to move on, rather than following the predefined stages. And sometimes, especially after you have internalized the staged reading techniques, you might be even more productive reading without Paper Timer. Paper Timer shouldn't be a prison house; it's a scaffold.
+
+## Q: What's background sound?
+
+- It's a free sound recording of a summer night in a Japanese temple.
+
+## Q: What's the ding sound?
+
+- The "ding" sound you hear at the end of an item--after all stages have ended--is the sound of a Tibetan singing bowl. Soothing huh?
 
 ---
 
