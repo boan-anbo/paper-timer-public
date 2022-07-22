@@ -4,15 +4,15 @@ Paper timer makes your reading more efficient and stress-free.
 
 It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading that suit you and turn them into habits.
 
-- See:
-  - [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
-  - [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
-  - [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
-  - [__inspirations__](#inspirations) for works that shaped the conceptualization of the timer.
-  - [__FAQ__](#faq) for common and not so common questions.
-  - [__possible issues__](#possible-issues) to learn about known issues.
-  - [__support__](#support) if you like and want to support Paper Timer
-  - [__change log__](#changelog) for changes.
+See:
+- [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
+- [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
+- [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
+- [__inspirations__](#inspirations) for works that shaped the conceptualization of the timer.
+- [__FAQ__](#faq) for common and not so common questions.
+- [__possible issues__](#possible-issues) to learn about known issues.
+- [__support__](#support) if you like and want to support Paper Timer
+- [__change log__](#changelog) for changes.
 
 ![Timer view](/assets/timer-interface.png)
 
