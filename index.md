@@ -21,13 +21,13 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 ## Windows x64
 
-| ver. | download | date |
+| ver. | installer | date |
 |---|---|---|
 |0.1.1| [Paper.Timer_0.1.1_x64_en-US.msi](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.1/Paper.Timer_0.1.1_x64_en-US.msi)|020721|
 
 ## macOS
 
-| ver. | download | date |
+| ver. | installer | date |
 |---|---|---|
 |0.1.1| [Paper.Timer_0.1.1_universal.dmg](https://github.com/boan-anbo/paper-timer-public/releases/download/v0.1.1/Paper.Timer_0.1.1_universal.dmg)|020721|
 
