@@ -8,6 +8,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
   - [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
   - [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
   - [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
+  - [__inspirations__](#inspirations) for works that shaped the conceptualization of the timer.
   - [__FAQ__](#faq) for common and not so common questions.
   - [__possible issues__](#possible-issues) to learn about known issues.
   - [__support__](#support) if you like and want to support Paper Timer
@@ -157,6 +158,30 @@ Stage
 
 - You can adjust the setting and export and import user data in `settings`.
 ![Configuration interface](assets/demo-configuration.png)
+
+---
+
+# Inspirations
+
+It's been many years since I started to use similar practices in my reading. The inspirations are many and many of their ideas are reflected in the Paper Timer. This is no ads--no referral links or anything, just recommendations and acknowledge..
+
+1. [How to Read](https://pne.people.si.umich.edu/PDF/howtoread.pdf) a Book by [Paul Edwards](https://cisac.fsi.stanford.edu/people/paul-n-edwards)
+
+- A super useful and succinct guide for academic reading.
+
+- Download the [pdf guide](https://pne.people.si.umich.edu/PDF/howtoread.pdf) here.
+  
+2. Andrew Abbott's [_Digital Paper_](https://press.uchicago.edu/ucp/books/book/chicago/D/bo18508006.html)
+
+- An original and comprehensive guide not just on reading but on doing library-based research in general.
+
+3. [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095) by  Mortimer J. Adler and Charles Van Doren
+
+- A classic on reading methods. Read this as an undergrad and it changed my life. A bit dated and geared more towards general readers but still extremely useful and inspiring.
+
+4. [The Power of Reading: Insights from the Research](https://www.amazon.com/Power-Reading-Insights-Research-2nd/dp/1591581699) by Stephen Krashen
+
+- A classic on language acquisition through free voluntary reading--Not exactly the same as the kind of targeted and controlled reading promoted by Paper Timer though.
 
 ---
 

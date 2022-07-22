@@ -16,7 +16,7 @@ See:
 - [__change log__](#changelog) for changes.
 
 ![Timer view](/assets/timer-interface.png)
-
+ 
 ---
 
 # Download
