@@ -1,8 +1,8 @@
 # Why Paper Timer
 
-Paper timer makes your reading and writing more efficient and stress-free.
+Paper timer makes your reading more efficient and stress-free.
 
-It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading and writing that suit you and turn them into habits.
+It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading that suit you and turn them into habits.
 
 - See:
   - [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
@@ -74,7 +74,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 # Design philosophy
 
-The design philosophy of Paper Timer holds true three principles about reading and writing.
+The design philosophy of Paper Timer holds true three principles about reading:
 
 ## _Iterate_: read it multiple times
 
@@ -93,7 +93,7 @@ The design philosophy of Paper Timer holds true three principles about reading a
 # Terms
 
 Item
-: __An item to read and write using a certain method.__
+: __An item to read using a certain method.__
 
 : E.g., a reading item could be a journal article, or a section of a paper you want to write.
 
