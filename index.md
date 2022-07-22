@@ -17,7 +17,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 ---
 
-# Download
+# Downloads
 
 ## Windows x64
 
@@ -39,7 +39,7 @@ Last update: _2022-07-21_
 
 ## Linux
 
-- Upcoming
+Upcoming
 
 ---
 
@@ -239,7 +239,7 @@ Paper Timer is __free__. If you hope to support the development, you can
 
 ## [0.0.1] - 2016-01-11
 
-- I built the first prototype of this timer the second semester in graduate school. Some of the sound you hear in the current version, such as the background and ticking sounds are from back then. I can write about the evolution of this timer in relation to my study at a later point.
+- First reading timer prototype built during my second semester in graduate school. Some of the sound you hear in the current version, such as the background and ticking sounds are from back then. I can write about the evolution of this timer in relation to my study at a later point.
 
 <!-- # Personal history
 
