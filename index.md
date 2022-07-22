@@ -19,7 +19,9 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 # Download
 
-## Windows x64 [2022-07-21]
+## Windows x64
+
+Last update: _2022-07-21_
 
 | ver. | installer |
 |---|---|---|
@@ -27,7 +29,7 @@ It's more than a timer to track time; it's a simple and yet powerful tool to let
 
 ## macOS
 
-- Last update: [2022-07-21]
+Last update: _2022-07-21_
 
 | ver. | installer |
 |---|---|
