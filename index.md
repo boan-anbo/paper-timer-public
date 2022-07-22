@@ -84,7 +84,7 @@ The design philosophy of Paper Timer holds true three principles about reading a
 
 ## _Space_: leave time to reflect and write
 
-- __Reading with questions makes__ active reading easier. Starting to write down thoughts, especially questions, during the reading process not after helps tremendously
+- __Reading with questions__ makes active reading easier. Starting to write down thoughts, especially questions, during the reading process not after helps tremendously
 
 ---
 
@@ -118,6 +118,13 @@ Stage
 
 If you encounter bugs or want to suggest features, please use the [issues](https://github.com/boan-anbo/paper-timer-public/issues).
 
+---
+
+# Support
+
+Paper Timer is __free__. If you hope to support the development, you can 
+1. __report bugs and make suggestions__ using the [issues](https://github.com/boan-anbo/paper-timer-public/issues). 
+2. __spread the word__ and recommend Paper Timer to others.
 ---
 
 # Changelog
