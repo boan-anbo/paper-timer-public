@@ -73,11 +73,17 @@ Check out the demo item below (coming with Paper Timer), experiment with your ow
 - Extremely helpful voice notifications of reading progresses. If you don't like them, you can mute it in [settings](#configurations).
   - But I strongly recommend keeping them on, so you don't have to check Paper Timer and can keep it minimized and focus on the reading.
 - Pleasant sound effects for background and stage and item endings. Differential clock sound let you easily know where you are and how much time left. Also mutable.
+
 ![Sound settings](assets/sound-settings.png)
+
 - Easily stick to the top or bottom of the screen while you're reading.
+
 ![Stick buttons](assets/stick-buttons.png)
+
 - Unobtrusive: becomes half transparent automatically when you're reading on the screen.
+
 ![Unobstrusive](assets/timer-unobstrusive.png)
+
 - And more in [roadmap](#roadmaps).
 
 ---
