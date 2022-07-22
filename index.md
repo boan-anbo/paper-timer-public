@@ -150,7 +150,7 @@ Stage
 ## Q: Is Paper Timer a productivity tool? How is it different from popular productivity timers such as Pomodoro timers or time trackers
 
 - Yes and no! One lesson I learned from my academic studies is that, when it comes to Research software, a lot of things are missing in common productivity tools. A generic tool is OK for everyone but great for no one.
-  Compared to Pomodoro timers and focus trackers, for example, Paper Timer allows you not only to decide __how much__ time you will spend, but __how__ you will spend them, stage by stage.
+  Compared to Pomodoro timers and focus trackers, for example, Paper Timer allows you not only to decide __how much__ time you will spend, but also __how__ you will spend them, stage by stage.
 The difference seems small but the implication is huge. My best advice is try using Paper Timer and Pomodoro for reading and feel the difference by yourself. You'll love it.
 
 ## Q: What do you mean by "Paper Timer makes you stress-free"?
