@@ -4,9 +4,11 @@ Paper timer makes your reading and writing more efficient and stress-free.
 
 It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading and writing that suit you and turn them into habits.
 
-Read about the [design philosophy](#key-ideas) to learn more about why Paper Timer is different.
+See:
 
-See [use cases](#usages) for examples of using Paper Timer for different scenarios.
+- [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
+- [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
+- [__use cases__](#usages) a list of scenarios where Paper Timer can help you.
 
 ![Timer view](/assets/timer-interface.png)
 
