@@ -99,19 +99,20 @@ Check out the demo item below (coming with Paper Timer), experiment with your ow
 ![Example item](assets/demo-item.png)
 
 - A demo item called `Demo Journal Quick` is included in the Paper Timer. You can get a sense what a typical item with its stage arrangement should look like.
-  - The reading is divided into four phases:
-    1. `preview`
-    2. `reading key passages`
-    3. `and reading contexts` and
-    4. `re-reading unclear parts`.
 
-  - The reading phases are separated from each other with writing stages, where you write your questions, thoughts. These are also moments for reflections.
+- The reading is divided into four phases:
+  1. `preview`
+  2. `reading key passages`
+  3. `and reading contexts` and
+  4. `re-reading unclear parts`.
 
-  - The second column is for notes or remainders about what this stage is supposed to do. For example, for the `preview` stage, you should "look for conclusions" etc.
+- The reading phases are separated from each other with writing stages, where you write your questions, thoughts. These are also moments for reflections.
 
-  - Remember to include key words in your item name, `Journal article quick` in this case, to indicate both
-    - the nature of the item ("journal article") and
-    - the method ("quick").
+- The second column is for notes or remainders about what this stage is supposed to do. For example, for the `preview` stage, you should "look for conclusions" etc.
+
+- Remember to include key words in your item name, `Journal article quick` in this case, to indicate both
+  - the nature of the item ("journal article") and
+  - the method ("quick").
 
 ---
 
