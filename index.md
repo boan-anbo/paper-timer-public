@@ -4,6 +4,8 @@ Paper timer makes your reading more efficient and stress-free.
 
 It's more than a timer to track time; it's a simple and yet powerful tool to let you experiment with methods of reading that suit you and turn them into habits.
 
+Paper Timer is completely __free__. It's made by an academic for academics.
+
 See:
 - [__design philosophy__](#design-philosophy) to learn more about why Paper Timer is different.
 - [__example item__](#example) to see to utilize the `stages` and `items` to help you read.
