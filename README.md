@@ -1,3 +1,9 @@
+# Paper Timer
+
+A timer for reader.
+
+---
+
 # Why [Paper Timer](https://www.papertimer.com)
 
 Paper timer makes your reading more efficient and stress-free.
