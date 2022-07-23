@@ -1,6 +1,6 @@
 # Paper Timer
 
-## A timer for reader
+- A timer for reader
 
 ---
 
